@@ -1,0 +1,6 @@
+const os = require('os')
+const livre = os.freemem()
+const total = os.totalmem()
+console.log(livre, total)
+console.log('livre '+ livre + ' total '+total)
+console.log(`livre: ${livre} total: ${total}`)

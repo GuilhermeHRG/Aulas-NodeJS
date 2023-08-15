@@ -1,0 +1,11 @@
+{
+  "name": "aulas-node",
+  "version": "1.0.0",
+  "description": "aulas henrique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test\" && exit 1"
+  },
+  "author": "Guilherme Guelere",
+  "license": "ISC"
+}
